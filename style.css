@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #474e5d;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+
+.about-section p {
+    line-height: 1.5;
+}
+
+.program-section {
+    padding: 50px;
+    text-align: center;
+    color: white;
+  }
+
+.program-section p {
+    line-height: 1.5;
+}
+.program-section span {
+    color: red;
+}
